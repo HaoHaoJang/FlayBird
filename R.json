@@ -1,0 +1,48 @@
+{
+  "images": [
+    {
+      "name": "fangzi",
+      "src": "images/bg1.png"
+    },
+    {
+      "name": "bg2",
+      "src": "images/bg2.png"
+    },
+    {
+      "name": "bg3",
+      "src": "images/bg3.png"
+    },
+    {
+      "name": "bird",
+      "src": "images/bird.png"
+    },
+    {
+      "name": "blood",
+      "src": "images/blood.png"
+    },
+    {
+      "name": "die",
+      "src": "images/die.png"
+    },
+    {
+      "name": "game1",
+      "src": "images/game1.png"
+    },
+    {
+      "name": "game2",
+      "src": "images/game2.png"
+    },
+    {
+      "name": "number",
+      "src": "images/number.png"
+    },
+    {
+      "name": "pipe1",
+      "src": "images/pipe1.png"
+    },
+    {
+      "name": "pipe2",
+      "src": "images/pipe2.png"
+    }
+  ]
+}
